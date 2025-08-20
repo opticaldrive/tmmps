@@ -1,0 +1,27 @@
+{
+    "display_information": {
+        "name": "The super spammer"
+    },
+    "features": {
+        "bot_user": {
+            "display_name": "The super spammer",
+            "always_online": false
+        }
+    },
+    "oauth_config": {
+        "scopes": {
+            "user": [
+                "chat:write",
+                "channels:history"
+            ],
+            "bot": [
+                "channels:history"
+            ]
+        }
+    },
+    "settings": {
+        "org_deploy_enabled": false,
+        "socket_mode_enabled": false,
+        "token_rotation_enabled": false
+    }
+}
