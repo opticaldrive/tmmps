@@ -1,6 +1,9 @@
 # tokens for slack
 tokens.txt
 
+# cookise for slack browser automation
+cookiejar.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
